@@ -1,0 +1,77 @@
+[2025-12-18 22:44:55] START: @keshinhymns from 2023-01-01 to 2022-01-01
+[2025-12-18 22:44:59] MONTH: reached 2022-12 (total: 1 tweets)
+[2025-12-18 22:46:57] MONTH: reached 2022-11 (total: 106 tweets)
+[2025-12-18 22:47:32] ERROR: No sessions available - stopping
+[2025-12-18 22:47:32] DONE: 132 tweets over 41 days
+[2025-12-19 07:10:30] START: @keshinhymns from 2022-11-23 to 2022-01-01
+[2025-12-19 07:13:39] MONTH: reached 2022-10 (total: 73 tweets)
+[2025-12-19 07:16:20] NO_SESSIONS: 2022-10-12 - waiting 1 hour
+[2025-12-19 08:17:44] MONTH: reached 2022-09 (total: 182 tweets)
+[2025-12-19 08:21:37] MONTH: reached 2022-08 (total: 255 tweets)
+[2025-12-19 08:21:55] NO_SESSIONS: 2022-08-29 - waiting 1 hour
+[2025-12-19 14:42:31] MONTH: reached 2022-07 (total: 422 tweets)
+[2025-12-19 16:37:52] MONTH: reached 2022-06 (total: 506 tweets)
+[2025-12-19 16:40:39] NO_SESSIONS: 2022-06-10 - waiting 1 hour
+[2025-12-19 17:42:09] MONTH: reached 2022-05 (total: 613 tweets)
+[2025-12-19 17:46:11] MONTH: reached 2022-04 (total: 735 tweets)
+[2025-12-19 17:46:37] NO_SESSIONS: 2022-04-27 - waiting 1 hour
+[2025-12-19 19:24:02] MONTH: reached 2022-03 (total: 925 tweets)
+[2025-12-19 19:25:19] NO_SESSIONS: 2022-03-23 - waiting 1 hour
+[2025-12-19 21:52:28] MONTH: reached 2022-02 (total: 1141 tweets)
+[2025-12-19 21:54:51] NO_SESSIONS: 2022-02-12 - waiting 1 hour
+[2025-12-19 22:24:02] START: @keshinhymns from 2022-02-13 to 2020-01-01
+[2025-12-19 22:25:56] MONTH: reached 2022-01 (total: 61 tweets)
+[2025-12-19 22:29:22] NO_SESSIONS: 2022-01-07 - waiting 1 hour
+[2025-12-19 23:30:23] MONTH: reached 2021-12 (total: 210 tweets)
+[2025-12-19 23:34:20] NO_SESSIONS: 2021-12-02 - waiting 1 hour
+[2025-12-20 00:14:19] START: @keshinhymns from 2021-12-03 to 2020-01-01
+[2025-12-20 00:14:45] MONTH: reached 2021-11 (total: 22 tweets)
+[2025-12-20 00:18:55] MONTH: reached 2021-10 (total: 159 tweets)
+[2025-12-20 00:19:34] NO_SESSIONS: 2021-10-26 - waiting 1 hour
+[2025-12-20 01:22:52] MONTH: reached 2021-09 (total: 204 tweets)
+[2025-12-20 01:25:32] NO_SESSIONS: 2021-09-02 - waiting 1 hour
+[2025-12-20 02:43:08] START: @keshinhymns from 2021-09-26 to 2020-01-01
+[2025-12-20 02:45:27] MONTH: reached 2021-08 (total: 1 tweets)
+[2025-12-20 02:48:11] MONTH: reached 2021-07 (total: 1 tweets)
+[2025-12-20 02:50:08] NO_SESSIONS: 2021-07-09 - waiting 1 hour
+[2025-12-20 03:50:56] MONTH: reached 2021-06 (total: 1 tweets)
+[2025-12-20 03:53:34] MONTH: reached 2021-05 (total: 1 tweets)
+[2025-12-20 03:56:17] MONTH: reached 2021-04 (total: 1 tweets)
+[2025-12-20 03:57:10] NO_SESSIONS: 2021-04-20 - waiting 1 hour
+[2025-12-20 04:58:55] MONTH: reached 2021-03 (total: 1 tweets)
+[2025-12-20 05:01:39] MONTH: reached 2021-02 (total: 1 tweets)
+[2025-12-20 05:04:02] NO_SESSIONS: 2021-02-01 - waiting 1 hour
+[2025-12-20 06:04:07] MONTH: reached 2021-01 (total: 1 tweets)
+[2025-12-20 06:06:51] MONTH: reached 2020-12 (total: 1 tweets)
+[2025-12-20 06:09:34] MONTH: reached 2020-11 (total: 1 tweets)
+[2025-12-20 06:11:03] NO_SESSIONS: 2020-11-13 - waiting 1 hour
+[2025-12-20 15:46:01] MONTH: reached 2020-10 (total: 1 tweets)
+[2025-12-20 15:48:45] MONTH: reached 2020-09 (total: 1 tweets)
+[2025-12-20 15:51:30] MONTH: reached 2020-08 (total: 4 tweets)
+[2025-12-20 15:51:40] NO_SESSIONS: 2020-08-29 - waiting 1 hour
+[2025-12-20 21:01:54] ERROR: 2020-08-29 - Additional info: nodename nor servname provided, or not known
+Async traceback:
+  /Users/varun/Projects/nitter/src/scrape_timeline.nim(316) scrape_timeline
+  /Users/varun/Projects/nitter/src/scrape_timeline.nim(191) scrapeTimeline (Async)
+  /Users/varun/Projects/nitter/src/scrape_timeline.nim(117) scrapeDay (Async)
+  /Users/varun/Projects/nitter/src/api.nim(160) getGraphTweetSearch (Async)
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/pure/asyncmacro.nim(247) fetch (Async)
+  /Users/varun/Projects/nitter/src/apiutils.nim(158) fetch (Async)
+  /Users/varun/Projects/nitter/src/apiutils.nim(107) fetch (Async)
+  /Users/varun/Projects/nitter/src/apiutils.nim(87) genHeaders (Async)
+  /Users/varun/Projects/nitter/src/tid.nim(45) genTid (Async)
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/pure/asyncmacro.nim(247) getPair (Async)
+  /Users/varun/Projects/nitter/src/tid.nim(24) getPair (Async)
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/pure/httpclient.nim(1334) get (Async)
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/pure/httpclient.nim(1261) request (Async)
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/pure/httpclient.nim(1162) requestAux (Async)
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/pure/httpclient.nim(1059) newConnection (Async)
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/pure/asyncnet.nim(305) dial (Async)
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/pure/nativesockets.nim(321) getAddrInfo
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/pure/nativesockets.nim(299) getAddrInfo
+  /opt/homebrew/Cellar/nim/2.2.6/nim/lib/std/oserrors.nim(92) raiseOSError
+Exception message: Additional info: nodename nor servname provided, or not known
+
+[2025-12-20 21:05:16] MONTH: reached 2020-07 (total: 4 tweets)
+[2025-12-20 21:08:20] MONTH: reached 2020-06 (total: 6 tweets)
+[2025-12-20 21:10:01] NO_SESSIONS: 2020-06-12 - waiting 1 hour

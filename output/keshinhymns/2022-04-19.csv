@@ -1,0 +1,32 @@
+id,url,time,text,replies,retweets,likes,views,media,has_quote
+1516304581927395330,https://x.com/keshinhymns/status/1516304581927395330,2022-04-19 06:35:58,In which direction,1,0,1,0,,false
+1516305059566395393,https://x.com/keshinhymns/status/1516305059566395393,2022-04-19 06:37:52,I’d imagine the wtfs are largely “object to the premise” too,0,0,1,0,,false
+1516308978254319616,https://x.com/keshinhymns/status/1516308978254319616,2022-04-19 06:53:26,One piece,0,0,0,0,,false
+1516310553169260546,https://x.com/keshinhymns/status/1516310553169260546,2022-04-19 06:59:42,"A random variable is a distribution. You often get polynomials of random variables. For ex, for a random variable X, you’ll consider X^2 for computing variance. And so on you can imagine a cubic, e.g. X^3 + 2X. 
+
+You could also have joint distributions, for X and Y",1,0,3,0,,false
+1516310763039703040,https://x.com/keshinhymns/status/1516310763039703040,2022-04-19 07:00:32,"A polynomial in X and Y will be like 
+
+X^2 * Y^2 + 6X + Y
+
+R[X,Y] is the set of all polynomials in X and Y with real coefficients",1,0,2,0,,false
+1516311468827762689,https://x.com/keshinhymns/status/1516311468827762689,2022-04-19 07:03:20,"yes you’re right but they’re not variables or random 
+
+They’re functions and in statistics specifying the function is as good as specifying the distribution",1,0,3,0,,false
+1516313457536094212,https://x.com/keshinhymns/status/1516313457536094212,2022-04-19 07:11:14,This Is Fair,0,0,3,0,,false
+1516314302625447939,https://x.com/keshinhymns/status/1516314302625447939,2022-04-19 07:14:36,Explain this,1,0,5,0,https://pbs.twimg.com/media/FQsH0rlUYAAQuat.jpg,true
+1516314969817505798,https://x.com/keshinhymns/status/1516314969817505798,2022-04-19 07:17:15,"A random side note is that the R[x] notation comes from “ring adjoin”. That is, the set of polynomials on x (over R) forms a ring. Basically, append “x” as it’s own entity to the Real numbers and allow adding/multiplying with it 
+
+R[x, y] is basically just defined as R[x][y]",0,0,3,0,,false
+1516321755677138947,https://x.com/keshinhymns/status/1516321755677138947,2022-04-19 07:44:13,The former category is only fun if it’s a tool in accelerating the progress of the latter,2,0,1,0,,false
+1516322947903881220,https://x.com/keshinhymns/status/1516322947903881220,2022-04-19 07:48:57,all goods so long as we're in a finite characteristic algebra 👍,0,0,1,0,,false
+1516324171415916545,https://x.com/keshinhymns/status/1516324171415916545,2022-04-19 07:53:49,"ok one idea is that via information theory, there should exist a certain compression function that takes all binary strings of length 256 and turns them into a smaller string—except for exactly one. 
+(2^256 binary strings, 2^0 + 2^1 + ... + 2^255 = 2^256 - 1 ""smaller strings""",1,0,0,0,,false
+1516324551021395968,https://x.com/keshinhymns/status/1516324551021395968,2022-04-19 07:55:19,"this string is a string of ""most entropy""—it is incompressible in this representation 
+
+So lexicographically order the 2^256 strings to correspond to the 2^256 first natural numbers 
+
+Have your function map the to encryption's lexicographic index",1,0,0,0,,false
+1516324828554272768,https://x.com/keshinhymns/status/1516324828554272768,2022-04-19 07:56:25,There are several problems to this including that I have no idea about practical information theory and something about compression being fundamentally uncomputable,0,0,0,0,,false
+1516325100147990530,https://x.com/keshinhymns/status/1516325100147990530,2022-04-19 07:57:30,are typed/typec DMs just recommending substances to each other to to cure various mental ailments,1,0,1,0,,false
+1516325516227190786,https://x.com/keshinhymns/status/1516325516227190786,2022-04-19 07:59:09,🥂,1,0,1,0,,false

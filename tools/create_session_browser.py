@@ -7,14 +7,17 @@ Usage:
   python3 tools/create_session_browser.py <username> <password> [totp_seed] [--append sessions.jsonl] [--headless]
 
 Examples:
-  # Output to terminal
+  # Account without 2FA
+  python3 tools/create_session_browser.py myusername mypassword
+
+  # Account with 2FA enabled (requires TOTP secret)
   python3 tools/create_session_browser.py myusername mypassword TOTP_SECRET
 
   # Append to sessions.jsonl
-  python3 tools/create_session_browser.py myusername mypassword TOTP_SECRET --append sessions.jsonl
+  python3 tools/create_session_browser.py myusername mypassword --append sessions.jsonl
 
   # Headless mode (may increase detection risk)
-  python3 tools/create_session_browser.py myusername mypassword TOTP_SECRET --headless
+  python3 tools/create_session_browser.py myusername mypassword --headless
 
 Output:
   {"kind": "cookie", "username": "...", "id": "...", "auth_token": "...", "ct0": "..."}
