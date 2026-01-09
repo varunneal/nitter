@@ -1,5 +1,8 @@
 ## Quick Start
 
+Reqs
+  nimble install -d
+
 Compile:
   nim c -d:ssl -d:release src/scrape_timeline.nim
   nim c -d:ssl -d:release src/scrape_daily.nim
@@ -52,9 +55,6 @@ Compile (must rebuild on target machine):
 
 Run in foreground:
   ./src/scrape_daemon
-
-Run in background:
-    nohup ./src/scrape_daemon > /dev/null 2>&1 &
 
 View logs:
   tail -f output/daemon.log
