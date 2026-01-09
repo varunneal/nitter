@@ -47,11 +47,14 @@ Manual trigger:
 Runs continuously, round-robins through accounts in accounts-starts.txt.
 Refreshes "today" every 30 min, does historical scraping with adaptive windows.
 
+Compile (must rebuild on target machine):
+  nim c -d:ssl -d:release src/scrape_daemon.nim
+
 Run in foreground:
   ./src/scrape_daemon
 
 Run in background:
-  nohup ./src/scrape_daemon &
+    nohup ./src/scrape_daemon > /dev/null 2>&1 &
 
 View logs:
   tail -f output/daemon.log
