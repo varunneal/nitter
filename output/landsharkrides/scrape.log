@@ -7645,3 +7645,5 @@ Exception message: Additional info: nodename nor servname provided, or not known
 [2025-12-25 05:11:38] MONTH: reached 2018-07 (total: 3 tweets)
 [2025-12-25 05:14:24] MONTH: reached 2018-06 (total: 3 tweets)
 [2025-12-25 05:17:05] DONE: 3 tweets over 134 days
+[2025-12-27 17:34:30] START backwards: @landsharkrides, EMA=15.1, window=49 days
+[2025-12-27 17:35:01] DONE: 3 tweets over 284 days

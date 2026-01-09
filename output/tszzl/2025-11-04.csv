@@ -1,0 +1,24 @@
+id,url,time,text,replies,retweets,likes,views,media,has_quote
+1985498709564809536,https://x.com/tszzl/status/1985498709564809536,2025-11-04 00:05:55,"yeah it’s generally been true for centuries, millenia and then completely stopped being true. it’s the worst possible heuristic for the last 200 years",3,0,42,3166,,false
+1985499334163722343,https://x.com/tszzl/status/1985499334163722343,2025-11-04 00:08:24,unfortunately the statement stands,2,2,527,12363,,false
+1985505250464448591,https://x.com/tszzl/status/1985505250464448591,2025-11-04 00:31:55,you are looking for conceptual elegance in the building block when the beauty is in the ecology of the optimization landscape and the engineering of these massive systems. that’s what my whole tweet is about,4,1,248,8843,,false
+1985505553930731772,https://x.com/tszzl/status/1985505553930731772,2025-11-04 00:33:07,"“from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved”
+
+this aesthetic was lovely to me from 2016 onwards when so many hated it",0,0,4,444,,false
+1985509732707418298,https://x.com/tszzl/status/1985509732707418298,2025-11-04 00:49:43,yeah that’s fair,4,0,89,8185,,false
+1985510434758385766,https://x.com/tszzl/status/1985510434758385766,2025-11-04 00:52:31,that’s just how New York is,1,0,3,643,,false
+1985514845652107297,https://x.com/tszzl/status/1985514845652107297,2025-11-04 01:10:02,americans are so much better at capitalism than everywhere else it’s absurd. korea is a corporate cyberpunk state that’s ran in a vice grip by samsung. they work their people to death for 100 hours a week. and their gdp per capita is a third of ours,349,157,5086,395635,,false
+1985515807154323817,https://x.com/tszzl/status/1985515807154323817,2025-11-04 01:13:52,would you rather be an owner of TSLA or BYD?,24,2,241,39021,,false
+1985529113957056996,https://x.com/tszzl/status/1985529113957056996,2025-11-04 02:06:44,I have in Singapore. it was slop,13,1,162,7908,,false
+1985529420900417617,https://x.com/tszzl/status/1985529420900417617,2025-11-04 02:07:57,agreed,2,0,75,19984,,false
+1985529737322905622,https://x.com/tszzl/status/1985529737322905622,2025-11-04 02:09:13,Stupid leftist slop brainrot,13,4,979,47993,,false
+1985532664653496438,https://x.com/tszzl/status/1985532664653496438,2025-11-04 02:20:51,some of these books are actually AI generated just as Easter eggs,0,0,28,1917,,false
+1985535166962679982,https://x.com/tszzl/status/1985535166962679982,2025-11-04 02:30:47,yeah I’m confused about this as well and I don’t buy the capex substitution argument which is actually just a different way of saying ai is replacing labor,0,0,6,702,,false
+1985621930377175466,https://x.com/tszzl/status/1985621930377175466,2025-11-04 08:15:33,Soon,2,0,15,6186,,false
+1985811050990813580,https://x.com/tszzl/status/1985811050990813580,2025-11-04 20:47:03,what a thread,0,0,9,366,,false
+1985819352449630669,https://x.com/tszzl/status/1985819352449630669,2025-11-04 21:20:03,do you agree that a rank 2 matrix can represent an affine transform in a very high dimensional vector space?,0,0,9,418,,false
+1985825137116266955,https://x.com/tszzl/status/1985825137116266955,2025-11-04 21:43:02,"that is mostly true and I think actually an important insight. the workhorse of deep learning is the GEMM matmul operation of some scale. in some architectures the atom is 4x4, sometimes 4x4x4, 256x256. it is the capacity for exactly this we are producing on an industrial scale",1,0,9,533,,false
+1985825720497815854,https://x.com/tszzl/status/1985825720497815854,2025-11-04 21:45:21,"there’s more variance in the atomic operation due to many types of precision, different chips, but it’s basically true that the world is spending a lot of resources on producing more atomic matmuls per second, as they are the vast majority of compute in a modern DL workload",0,1,7,1127,,false
+1985832135132078575,https://x.com/tszzl/status/1985832135132078575,2025-11-04 22:10:50,can someone explain why you’d ever put computers anywhere off planet? the only reason seems to me to be the far future one where we’re dumping too much waste heat into the earth system which is very far off,425,12,832,98276,,false
+1985834292573061628,https://x.com/tszzl/status/1985834292573061628,2025-11-04 22:19:25,"ok, I can get the need to run things near absolute zero. is the idea that this should extend to low temp superconducting computers?",6,0,47,5303,,false
+1985835218629230892,https://x.com/tszzl/status/1985835218629230892,2025-11-04 22:23:05,"keep in mind putting things on the moon is a lot more expensive than putting them in orbit, where there is no heat sink",4,0,26,1888,,false

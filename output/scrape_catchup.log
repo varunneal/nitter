@@ -1,0 +1,633 @@
+[2025-12-25 17:43:13] Starting catch-up scrape
+[2025-12-25 17:43:13] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-25
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  21 tweets
+
+=== Summary ===
+Date: 2025-12-25
+Accounts: 1 succeeded, 0 failed
+Total tweets: 21
+[2025-12-25 17:43:21] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-26
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  0 tweets
+
+=== Summary ===
+Date: 2025-12-26
+Accounts: 1 succeeded, 0 failed
+Total tweets: 0
+[2025-12-25 17:43:22] Catch-up complete
+[2025-12-26 07:01:28] Starting catch-up scrape
+[2025-12-26 07:01:28] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-25
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  21 tweets
+
+=== Summary ===
+Date: 2025-12-25
+Accounts: 1 succeeded, 0 failed
+Total tweets: 21
+[2025-12-26 07:18:44] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-26
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  Error: Operation timed out
+
+=== Summary ===
+Date: 2025-12-26
+Accounts: 0 succeeded, 1 failed
+Total tweets: 0
+[2025-12-26 07:47:32] Catch-up complete
+[2025-12-26 21:07:09] Starting catch-up scrape
+[2025-12-26 21:07:09] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-26
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  15 tweets
+
+=== Summary ===
+Date: 2025-12-26
+Accounts: 1 succeeded, 0 failed
+Total tweets: 15
+[2025-12-26 21:07:13] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-27
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  0 tweets
+
+=== Summary ===
+Date: 2025-12-27
+Accounts: 1 succeeded, 0 failed
+Total tweets: 0
+[2025-12-26 21:07:13] Catch-up complete (success)
+[2025-12-27 07:02:06] Starting catch-up scrape
+[2025-12-27 07:02:06] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-26
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  15 tweets
+
+=== Summary ===
+Date: 2025-12-26
+Accounts: 1 succeeded, 0 failed
+Total tweets: 15
+[2025-12-27 07:02:11] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-27
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  6 tweets
+
+=== Summary ===
+Date: 2025-12-27
+Accounts: 1 succeeded, 0 failed
+Total tweets: 6
+[2025-12-27 07:08:43] Catch-up complete (success)
+[2025-12-28 08:01:59] Starting catch-up scrape
+[2025-12-28 08:01:59] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-27
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  Error: Additional info: nodename nor servname provided, or not known
+
+=== Summary ===
+Date: 2025-12-27
+Accounts: 0 succeeded, 1 failed
+Total tweets: 0
+[2025-12-28 09:19:14] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-28
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  Error: Additional info: nodename nor servname provided, or not known
+
+=== Summary ===
+Date: 2025-12-28
+Accounts: 0 succeeded, 1 failed
+Total tweets: 0
+[2025-12-28 10:34:46] Catch-up complete (success)
+[2025-12-29 08:00:00] Starting catch-up scrape
+[2025-12-29 08:00:00] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-28
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  11 tweets
+
+=== Summary ===
+Date: 2025-12-28
+Accounts: 1 succeeded, 0 failed
+Total tweets: 11
+[2025-12-29 08:02:02] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-29
+
+Accounts to scrape: 1
+  - @landsharkrides
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/1] @landsharkrides...
+  5 tweets
+
+=== Summary ===
+Date: 2025-12-29
+Accounts: 1 succeeded, 0 failed
+Total tweets: 5
+[2025-12-29 08:02:06] Catch-up complete (success)
+[2025-12-30 08:01:59] Starting catch-up scrape
+[2025-12-30 08:01:59] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-29
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  8 tweets
+[2/2] @tszzl...
+  29 tweets
+
+=== Summary ===
+Date: 2025-12-29
+Accounts: 2 succeeded, 0 failed
+Total tweets: 37
+[2025-12-30 08:24:17] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-30
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  3 tweets
+[2/2] @tszzl...
+  16 tweets
+
+=== Summary ===
+Date: 2025-12-30
+Accounts: 2 succeeded, 0 failed
+Total tweets: 19
+[2025-12-30 09:03:00] Catch-up complete (success)
+[2025-12-31 08:01:59] Starting catch-up scrape
+[2025-12-31 08:01:59] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-30
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  11 tweets
+[2/2] @tszzl...
+  19 tweets
+
+=== Summary ===
+Date: 2025-12-30
+Accounts: 2 succeeded, 0 failed
+Total tweets: 30
+[2025-12-31 08:17:18] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-31
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  14 tweets
+[2/2] @tszzl...
+  5 tweets
+
+=== Summary ===
+Date: 2025-12-31
+Accounts: 2 succeeded, 0 failed
+Total tweets: 19
+[2025-12-31 08:42:18] Catch-up complete (success)
+[2025-12-31 16:55:11] Starting catch-up scrape
+[2025-12-31 16:55:11] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-31
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  25 tweets
+[2/2] @tszzl...
+  16 tweets
+
+=== Summary ===
+Date: 2025-12-31
+Accounts: 2 succeeded, 0 failed
+Total tweets: 41
+[2025-12-31 16:55:27] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2026-01-01
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  0 tweets
+[2/2] @tszzl...
+  1 tweets
+
+=== Summary ===
+Date: 2026-01-01
+Accounts: 2 succeeded, 0 failed
+Total tweets: 1
+[2025-12-31 16:55:37] Catch-up complete (success)
+[2026-01-01 08:01:11] Starting catch-up scrape
+[2026-01-01 08:01:11] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2025-12-31
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  25 tweets
+[2/2] @tszzl...
+  16 tweets
+
+=== Summary ===
+Date: 2025-12-31
+Accounts: 2 succeeded, 0 failed
+Total tweets: 41
+[2026-01-01 08:01:40] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2026-01-01
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  18 tweets
+[2/2] @tszzl...
+  6 tweets
+
+=== Summary ===
+Date: 2026-01-01
+Accounts: 2 succeeded, 0 failed
+Total tweets: 24
+[2026-01-01 08:17:21] Catch-up complete (success)
+[2026-01-02 08:02:00] Starting catch-up scrape
+[2026-01-02 08:02:00] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2026-01-01
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  32 tweets
+[2/2] @tszzl...
+[2026-01-05 16:29:41] Starting catch-up scrape
+[2026-01-05 16:29:41] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2026-01-04
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  23 tweets
+[2/2] @tszzl...
+  10 tweets
+
+=== Summary ===
+Date: 2026-01-04
+Accounts: 2 succeeded, 0 failed
+Total tweets: 33
+[2026-01-05 16:29:57] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2026-01-05
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  20 tweets
+[2/2] @tszzl...
+  4 tweets
+
+=== Summary ===
+Date: 2026-01-05
+Accounts: 2 succeeded, 0 failed
+Total tweets: 24
+[2026-01-05 16:30:11] Catch-up complete (success)
+[2026-01-08 16:26:25] Starting catch-up scrape
+[2026-01-08 16:26:25] Scraping yesterday's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2026-01-07
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  13 tweets
+[2/2] @tszzl...
+  11 tweets
+
+=== Summary ===
+Date: 2026-01-07
+Accounts: 2 succeeded, 0 failed
+Total tweets: 24
+[2026-01-08 16:26:40] Scraping today's tweets...
+
+Usage: scrape_daily [date]
+  date: 'yesterday' (default), 'today', or YYYY-MM-DD
+
+Reads accounts from: accounts.txt
+Output: output/<username>/<date>.csv
+
+=== Daily Tweet Scraper ===
+Target date: 2026-01-08
+
+Accounts to scrape: 2
+  - @landsharkrides
+  - @tszzl
+
+[sessions] parsing JSONL account sessions file: sessions.jsonl
+[sessions] successfully added 2 valid account sessions
+[1/2] @landsharkrides...
+  15 tweets
+[2/2] @tszzl...
+  17 tweets
+
+=== Summary ===
+Date: 2026-01-08
+Accounts: 2 succeeded, 0 failed
+Total tweets: 32
+[2026-01-08 16:26:53] Catch-up complete (success)

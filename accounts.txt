@@ -1,0 +1,6 @@
+# Twitter accounts to scrape daily
+# One username per line (with or without @)
+# Lines starting with # are ignored
+
+landsharkrides
+tszzl

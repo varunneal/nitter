@@ -1,0 +1,5 @@
+# Accounts for daemon scraper
+# Format: username YYYY-MM-DD (start date for historical scraping)
+
+landsharkrides 2018-01-01
+tszzl 2020-01-01
